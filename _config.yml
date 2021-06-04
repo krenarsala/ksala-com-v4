@@ -1,0 +1,39 @@
+# Your Name or Company
+title: Hi, I’m Krenar Sala 👋
+
+# Description of your website. This is used for social sharing.
+description:  The beautiful website of Security Agent, Security Researcher, Information Security, Krenar Sala
+
+# A brief blurb about yourself
+content: I am a Security Agent at Avarn Security AS living in Sarpsborg, Norway. My interests range from photography to technology. I am also interested in music, food, tv-series and movies. 
+content2: Love travel and 😘coffee. If you’d like to get in touch, feel free to say hello through any of the social links.
+
+# Add your social links
+social:
+  - platform: E-Mail
+    url: mailto:krenar@sala.email
+  - platform: Facebook
+    url: https://facebook.com/krenars
+  - platform: Instagram
+    url: https://instagram.com/krenarsala
+  - platform: Twitter
+    url: https://twitter.com/krenarsala
+  - platform: Linkedin
+    url: https://linkedin.com/in/krenar-sala-37943b47
+  - platform: Snapchat
+    url: https://snapchat.com/add/krenar92
+
+# General settings
+# url: https://ksala.com
+# baseurl: "" 
+markdown: kramdown
+sharing_image:
+google_analytics: "" # google analytics tracking
+
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
